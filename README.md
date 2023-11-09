@@ -38,3 +38,7 @@
 1. Done.
 
 #### You can view snapshot of the key node in the snapshot directory.
+Fix include for apple M1
+<img width="456" alt="Screenshot 2023-11-09 at 16 47 20" src="https://github.com/lazyduck037/FFmpeg-in-Xcode/assets/32600174/8ac575c3-0386-45c8-bef0-37d378f07300">
+
+
