@@ -19,7 +19,7 @@
   3. This notice may not be removed or altered from any source distribution.
 */
 #include "../SDL_internal.h"
-
+#include "libkern/OSAtomicDeprecated.h"
 #if defined(__WIN32__) || defined(__WINRT__)
 #include "../core/windows/SDL_windows.h"
 #endif
